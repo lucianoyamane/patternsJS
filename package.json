@@ -1,0 +1,23 @@
+{
+  "name": "patternsjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app/index.js",
+  "scripts": {
+    "test": "mocha --recursive --timeout 15000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianoyamane/patternsJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianoyamane/patternsJS/issues"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  },
+  "homepage": "https://github.com/lucianoyamane/patternsJS#readme"
+}
