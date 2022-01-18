@@ -11,8 +11,6 @@ describe("index test", function(){
         namesCollection.addName("Alice");
         namesCollection.addName("Franck");
 
-        expect(namesCollection).to
-
         expect(namesCollection.getNames()).to.have.lengthOf(3);
           
     })
